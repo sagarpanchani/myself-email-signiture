@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#main-div{
+    margin: auto;
+    width: 700px;
+    border-radius: 10px;
+ background-color: rgb(153, 143, 143, 0.2);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid;
+  
+}
+#first-div{
+text-align: center;
+background-color: #3139a8;
+border-radius: 10px 10px 0px 0px ;
+border-bottom: 2px solid white;
+color: white;
+
+}
+.span-1{
+    font-size: 15px;
+    padding-bottom: 10px;
+    color: gainsboro;
+}
+#img{
+    border-radius: 100px;
+     margin:20px 0px 10px 0px ; 
+    border: 5px solid white;
+}
+.first-img{
+    list-style-image: url(./images/telephone-call\ \(1\).png);
+    vertical-align:sub;
+    margin-top: 30px;
+    margin-left: 50px;
+ 
+     
+}
+.second-img{
+    list-style-image: url(./images/email.png);
+    vertical-align:sub;
+    margin-top: 30px;
+    margin-left: 50px;
+     
+}
+.third-img{
+    list-style-image: url(./images/web.png);
+    vertical-align:sub;
+    margin-top: 30px;
+    margin-left: 50px;
+     
+}
+.fourth-img{
+    list-style-image: url(./images/address.png);
+    vertical-align:sub;
+    margin-top: 30px;
+    margin-left: 50px;
+     
+}
+ol{
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: rgb(39, 38, 37);
+}
+li{
+    padding-left: 15px;
+}
+#third-div{
+    background-color:rgb(221, 203, 40);
+    border-radius:0px 0px 10px 10px;
+}
+.para-1{
+  
+    margin: 20px 0px 20px 70px;
+
+}
